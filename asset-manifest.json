@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Read%20Journey/static/css/main.7acaea2f.css",
+    "main.js": "/Read%20Journey/static/js/main.07d3183d.js",
+    "index.html": "/Read%20Journey/index.html",
+    "main.7acaea2f.css.map": "/Read%20Journey/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Read%20Journey/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
